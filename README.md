@@ -11,8 +11,11 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 #### Key Takeaways:
 •	In this project, we explore critical business concepts within the hotel industry, including various pricing strategies such as:
+
 •	1. Flat Pricing
+
 •	2. Weekend/Weekday Pricing
+
 •	3. Dynamic Pricing
 
 #### Here's a quick glimpse of some noteworthy facts about AtliQ Grands:
