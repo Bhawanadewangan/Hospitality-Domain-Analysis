@@ -41,6 +41,11 @@ fact_aggregated_bookings - This fact table contained data related to property ID
 #### Tools Used -
 Power BI
 
+#### Dashboard
+
+<img width="627" alt="image" src="https://github.com/user-attachments/assets/f8c912b0-66f9-43de-ba91-ad63ccf19225" />
+
+
 #### Most Important Metrics:
 
 •	Our journey into revenue analysis covers essential metrics, including:
