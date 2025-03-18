@@ -41,14 +41,23 @@ Power BI
 #### Most Important Metrics:
 
 •	Our journey into revenue analysis covers essential metrics, including:
+
 •	📌 RevPAR (Revenue per Available Room): A key indicator of hotel performance.
+
 •	📌 Occupancy: Measuring room occupancy among all available rooms.
+
 •	📌 ADR (Average Daily Rate): Calculating the average rate paid for rooms sold.
+
 •	📌 DSRN (Daily Sellable Room Nights): Reflecting the rooms ready for sale.
+
 •	📌 DBRN (Daily Booked Room Nights): Tracking rooms booked per night, including cancellations and no-shows.
+
 •	📌 Cancellations: Analyzing customer cancellations, leading to a 40% refund.
+
 •	📌 No Show: Identifying cases where customers neither canceled nor arrived.
+
 •	📌 DURN (Daily Utilized Room Nights): Quantifying rooms utilized per night.
+
 
 #### Key Revelations:
 
